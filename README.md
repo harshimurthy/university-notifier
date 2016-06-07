@@ -1,0 +1,2 @@
+# university-notifier
+Android application
